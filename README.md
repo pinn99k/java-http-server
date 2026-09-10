@@ -1,7 +1,7 @@
 # java-http-server
 
 > HTTP server built from scratch with Java ServerSocket — no Spring, no Tomcat  
-> Spring도 Tomcat도 없이 ServerSocket으로 HTTP 서버를 직접 구현한 도서관 관리 웹 애플리케이션
+> Spring Tomcat 없이 ServerSocket으로 HTTP 서버를 직접 구현한 도서관 관리 웹 애플리케이션
 
 ---
 
